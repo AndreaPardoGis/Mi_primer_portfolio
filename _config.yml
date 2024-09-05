@@ -1,15 +1,14 @@
 # Site settings
-title: Hi, I'm Dominik.
-description: Dominik Haitz' professional portfolio site
+title: Hey, Soy Andrea.
+description: Este es mi Portfolio
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# url: "localhost:4000" # the base hostname & protocol for your site e.g. https://tu-usuario.github.io/tu-repo
 
 # User settings
-username: Dominik Haitz
-user_title: Dr.
-user_job_title: Data Scientist
-email: dominik.haitz [at] gmx.de
-twitter_username: d_haitz
-github_username:  dhaitz
+username: Andrea Pardo Gispert
+user_job_title: Python Developer | IA | Gestión de proyectos # Python Developer | AI & ML Researcher | Data Science Enthusiast -  Front-end & Back-end Developer | AI & ML | Data Analysis - Python & Web Developer | AI & ML Enthusiast | Project Manager - Python Developer | AI & ML Specialist | Data Scientist
+email: andreapardogis [at] gmail.com
+linkedin_username: andreapardogis
+github_username:  andreapardogis
 
 exclude: ['package.json', 'src' , 'node_modules']
